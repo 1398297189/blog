@@ -63,8 +63,8 @@
 <footer class="container">
     <div class="site-footer" role="contentinfo">
         <div class="copyright left mobile-block">
-            © 2015
-            <span >phpyc.com</span>
+            © 2016
+            <span >maimengoldboy.com</span>
             <a href="javascript:window.scrollTo(0,0)" class="right mobile-visible">TOP</a>
         </div>
 
